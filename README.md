@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5d6559bb-9573-4d76-beff-7c6a9faf1477" />
+
+
 # Mobi Shield
 
 Mobi Shield is an AI-powered Dip Shield bot designed to monitor token market conditions on pumpfun and coordinate full treasury reinjection strategies during 30% drawdown events.
